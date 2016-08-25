@@ -20,7 +20,7 @@
 
 ## Top 10 services:
 
-|Service    |Total |
+|Service    |Count |
 |-----------|------|
 |Surveillance Nut	|56 |
 |Outbreak Malaria OPD	|52 |
