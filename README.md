@@ -20,14 +20,14 @@
 
 ## Top 10 services:
 
-|Service    |Count |
-|-----------|------|
-|Surveillance Nut	|56 |
-|Outbreak Malaria OPD	|52 |
-|NUT ATFC	|52 |
-|Sexual and Rep. Health OPD	|47 |
-|Vaccination	|47 |
-|External Consultations	|46 |
-|Sexual and Rep. Health IPD	|38 |
-|Diagnostic test	|27 |
-|Gender Based Violence	|27 |
+|Service    |Count | Checked |
+|-----------|------|---------|
+|Surveillance Nut	|56 | x |
+|Outbreak Malaria OPD	|52 | x |
+|NUT ATFC	|52 | x |
+|Sexual and Rep. Health OPD	|47 |  |
+|Vaccination	|47 |  |
+|External Consultations	|46 |  |
+|Sexual and Rep. Health IPD	|38 |  |
+|Diagnostic test	|27 |  |
+|Gender Based Violence	|27 |  |
